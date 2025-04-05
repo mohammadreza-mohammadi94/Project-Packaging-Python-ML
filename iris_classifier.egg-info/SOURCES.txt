@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+iris_classifier/__init__.py
+iris_classifier/data.py
+iris_classifier/model.py
+iris_classifier/utils.py
+iris_classifier.egg-info/PKG-INFO
+iris_classifier.egg-info/SOURCES.txt
+iris_classifier.egg-info/dependency_links.txt
+iris_classifier.egg-info/requires.txt
+iris_classifier.egg-info/top_level.txt
+tests/test_model.py
